@@ -1,6 +1,6 @@
-# friendlychat
+# Friendly chat
 
-A friendly chat application.
+A flutter example application.
 
 ## Getting Started
 
